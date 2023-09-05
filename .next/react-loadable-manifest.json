@@ -1,0 +1,150 @@
+{
+  "../components/Header/MainNav2.tsx -> @/components/MenuBar/MenuBar": {
+    "id": "../components/Header/MainNav2.tsx -> @/components/MenuBar/MenuBar",
+    "files": [
+      "static/chunks/src_components_MenuBar_MenuBar_tsx.js"
+    ]
+  },
+  "../components/MusicPlayer/MusicPlayer.tsx -> ./PlayerContent": {
+    "id": "../components/MusicPlayer/MusicPlayer.tsx -> ./PlayerContent",
+    "files": [
+      "static/chunks/src_components_MusicPlayer_PlayerContent_tsx.js"
+    ]
+  },
+  "../components/Navigation/Navigation.tsx -> ./NavigationItem": {
+    "id": "../components/Navigation/Navigation.tsx -> ./NavigationItem",
+    "files": [
+      "static/chunks/src_components_Navigation_NavigationItem_tsx.js"
+    ]
+  },
+  "../container/archives/ArchiveLayout.tsx -> @/components/ModalCategories": {
+    "id": "../container/archives/ArchiveLayout.tsx -> @/components/ModalCategories",
+    "files": [
+      "static/chunks/src_components_ModalCategories_tsx.js"
+    ]
+  },
+  "../container/archives/ArchiveLayout.tsx -> @/components/ModalTags": {
+    "id": "../container/archives/ArchiveLayout.tsx -> @/components/ModalTags",
+    "files": [
+      "static/chunks/src_components_ModalTags_tsx.js"
+    ]
+  },
+  "../container/archives/ArchiveLayout.tsx -> @/components/SectionSubscribe2/SectionSubscribe2": {
+    "id": "../container/archives/ArchiveLayout.tsx -> @/components/SectionSubscribe2/SectionSubscribe2",
+    "files": [
+      "static/chunks/src_components_SectionSubscribe2_SectionSubscribe2_tsx.js"
+    ]
+  },
+  "../container/archives/ArchiveLayout.tsx -> @/components/SectionTrendingTopic": {
+    "id": "../container/archives/ArchiveLayout.tsx -> @/components/SectionTrendingTopic",
+    "files": [
+      "static/chunks/src_components_SectionTrendingTopic_tsx.js"
+    ]
+  },
+  "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionGridPosts": {
+    "id": "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionGridPosts",
+    "files": [
+      "static/chunks/src_components_Sections_SectionGridPosts_tsx.js"
+    ]
+  },
+  "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionLargeSlider": {
+    "id": "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionLargeSlider",
+    "files": [
+      "static/chunks/src_components_Sections_SectionLargeSlider_tsx.js"
+    ]
+  },
+  "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine1": {
+    "id": "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine1",
+    "files": [
+      "static/chunks/src_components_Sections_SectionMagazine1_tsx.js"
+    ]
+  },
+  "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine10": {
+    "id": "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine10",
+    "files": [
+      "static/chunks/src_components_Sections_SectionMagazine10_tsx.js"
+    ]
+  },
+  "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine11": {
+    "id": "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine11",
+    "files": [
+      "static/chunks/src_components_Sections_SectionMagazine11_tsx.js"
+    ]
+  },
+  "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine3": {
+    "id": "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine3",
+    "files": [
+      "static/chunks/src_components_Sections_SectionMagazine3_tsx.js"
+    ]
+  },
+  "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine4": {
+    "id": "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine4",
+    "files": [
+      "static/chunks/src_components_Sections_SectionMagazine4_tsx.js"
+    ]
+  },
+  "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine7": {
+    "id": "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine7",
+    "files": [
+      "static/chunks/src_components_Sections_SectionMagazine7_tsx.js"
+    ]
+  },
+  "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine8": {
+    "id": "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine8",
+    "files": []
+  },
+  "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine9": {
+    "id": "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionMagazine9",
+    "files": [
+      "static/chunks/src_components_Sections_SectionMagazine9_tsx.js"
+    ]
+  },
+  "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionSliderPosts": {
+    "id": "../wp-blocks/NcmazFaustBlockMagazine.tsx -> ../components/Sections/SectionSliderPosts",
+    "files": [
+      "static/chunks/src_components_Sections_SectionSliderPosts_tsx.js"
+    ]
+  },
+  "../wp-blocks/NcmazFaustBlockTerms.tsx -> ../components/SectionGridCategoryBox/SectionGridCategoryBox": {
+    "id": "../wp-blocks/NcmazFaustBlockTerms.tsx -> ../components/SectionGridCategoryBox/SectionGridCategoryBox",
+    "files": [
+      "static/chunks/src_components_SectionGridCategoryBox_SectionGridCategoryBox_tsx.js"
+    ]
+  },
+  "../wp-blocks/NcmazFaustBlockTerms.tsx -> ../components/SectionSliderNewCategories/SectionSliderNewCategories": {
+    "id": "../wp-blocks/NcmazFaustBlockTerms.tsx -> ../components/SectionSliderNewCategories/SectionSliderNewCategories",
+    "files": [
+      "static/chunks/src_components_SectionSliderNewCategories_SectionSliderNewCategories_tsx.js"
+    ]
+  },
+  "../wp-templates/single.tsx -> ../container/singles/single-2/single-2": {
+    "id": "../wp-templates/single.tsx -> ../container/singles/single-2/single-2",
+    "files": [
+      "static/chunks/src_container_singles_single-2_single-2_tsx.js"
+    ]
+  },
+  "../wp-templates/single.tsx -> ../container/singles/single-3/single-3": {
+    "id": "../wp-templates/single.tsx -> ../container/singles/single-3/single-3",
+    "files": [
+      "static/chunks/src_container_singles_single-3_single-3_tsx.js"
+    ]
+  },
+  "../wp-templates/single.tsx -> ../container/singles/single-4/single-4": {
+    "id": "../wp-templates/single.tsx -> ../container/singles/single-4/single-4",
+    "files": [
+      "static/chunks/src_container_singles_single-4_single-4_tsx.js"
+    ]
+  },
+  "../wp-templates/single.tsx -> ../container/singles/single-5/single-5": {
+    "id": "../wp-templates/single.tsx -> ../container/singles/single-5/single-5",
+    "files": [
+      "static/chunks/src_container_singles_single-5_single-5_tsx.js"
+    ]
+  },
+  "../wp-templates/single.tsx -> @/container/singles/SingleRelatedPosts": {
+    "id": "../wp-templates/single.tsx -> @/container/singles/SingleRelatedPosts",
+    "files": [
+      "static/chunks/src_container_singles_SingleRelatedPosts_tsx.js"
+    ]
+  }
+}

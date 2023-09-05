@@ -1,0 +1,136 @@
+{
+  "version": "0.1.1",
+
+  "mailpoet_api_key": "your_mailpoet_api_key",
+  "mailpoet_list_id": "3",
+  "subcription_widget": {
+    "enable": true,
+    "title": "Stay up to date",
+    "description": "Get notified when I publish something new, and unsubscribe at any time.",
+    "placeholder": "Enter your email address",
+    "success_message": "Thank you for subscribing. You're in!",
+    "error_message": "Something went wrong. Please try again. If the problem persists, you can contact me."
+  },
+  "newsletter_section": {
+    "enable": true,
+    "title": "Join our newsletter 🎉",
+    "description": "Read and share new perspectives on just about any topic. Everyone’s welcome.",
+    "right_image": "/images/SVG-subcribe2.png",
+    "features_list": ["Create a free account.", "Write your stories."]
+  },
+  "top_banner": {
+    "enable": true,
+    "description": "-50% Intro price for the next 72 hours only!.",
+    "end_link": {
+      "url": "#",
+      "text": "Buy now  →",
+      "new_tab": false
+    }
+  },
+
+  "top_category_section": {
+    "enable": true,
+    "title": "Discover top 10 categories",
+    "sub_title": "Let's explore the most popular categories"
+  },
+
+  "site_info": {
+    "site_title": "Ncmaz Nextjs Blog",
+    "site_description": "Ncmaz Nextjs Blog headless WordPress",
+    "site_keywords": "Ncmaz Nextjs Blog",
+    "site_author": "ChisNghiax",
+    "site_email": "Your Email",
+    "site_phone": "Your Phone",
+    "site_address": "Your Address",
+    "site_city": "Your City",
+    "site_state": "Your State",
+    "site_zip": "Your Zip",
+    "site_country": "Your Country",
+    "site_url": "https://www.yoursite.com",
+    "site_logo": "/logo.png",
+    "site_logo_light": "/logo-light.png",
+    "site_favicon": "/favicon.png"
+  },
+
+  "site_socials": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/yourfacebookpage",
+      "icon": "/images/socials/facebook.svg",
+      "description": "Follow us on Facebook"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/yourtwitterpage",
+      "icon": "/images/socials/x-twitter.svg",
+      "description": "Follow us on Twitter"
+    },
+
+    {
+      "name": "github",
+      "url": "https://www.github.com/yourmediumpage",
+      "icon": "/images/socials/github.svg",
+      "description": "Follow us on Github"
+    },
+    {
+      "name": "tiktok",
+      "url": "https://www.tiktok.com/yourtiktokpage",
+      "icon": "/images/socials/tiktok.svg",
+      "description": "Follow us on Tiktok"
+    }
+  ],
+
+  "site_footer": {
+    "all_rights_reserved_text": "© 2023 ChisNghiax Company, Inc. All rights reserved."
+  },
+
+  "submissions-settings": {
+    "max_categories_allowed": 3,
+    "max_tags_allowed": 5
+  },
+
+  "signUp_page": {
+    "title": "Create an account",
+    "sub_title": "Enter your email below to create your account.",
+    "blockquote": {
+      "text": "This library has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
+      "author": "Sofia Davis"
+    }
+  },
+
+  "signIn_page": {
+    "title": "Sign in to your account",
+    "sub_title": "Enter your email below to sign in to your account.",
+    "blockquote": {
+      "text": "This library has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
+      "author": "Sofia Davis"
+    },
+    "lost_password": {
+      "is_use_lostpassword_default_of_wp": false,
+      "message": "Lost password not implemented yet! Please contact admmin for support.",
+      "url_lostpassword_default_of_wp": "https://yourwebsite.com/wp-login.php?action=lostpassword"
+    }
+  },
+
+  "mobile_nav_sidebar": {
+    "description": "Discover the most outstanding articles on all topics of life. Write your stories and share them with the community. "
+  },
+  "help_page": {
+    "uri": "/helps",
+    "title": "Helps",
+    "sub_title": "Read and share new perspectives on just about any topic. Everyone’s welcome."
+  },
+  "document_page": {
+    "uri": "/documents",
+    "title": "Documents",
+    "sub_title": "Read and share new perspectives on just about any topic. Everyone’s welcome."
+  },
+  "cookies_policy_page": {
+    "uri": "#"
+  },
+
+  "empty_state": {
+    "title": "No results found.",
+    "description": "We couldn’t find any results. Try for something else."
+  }
+}

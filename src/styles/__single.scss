@@ -1,0 +1,13 @@
+#single-entry-content {
+  :where(h2, h3, h4):not(:where([class~="not-prose"] *)) {
+    @apply scroll-mt-10 lg:scroll-mt-24;
+  }
+
+  iframe {
+    @apply max-w-full;
+  }
+}
+
+.not-prose {
+  @apply text-base font-normal text-neutral-900 dark:text-neutral-100;
+}
